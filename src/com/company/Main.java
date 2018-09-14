@@ -83,6 +83,8 @@ public class Main {
 // test
         // test 2
         // test 3
+
+        // test 5
         Scanner s = new Scanner(System.in);
         System.out.print("Enter A B C med mellemrum: ");
         a = s.nextDouble();
