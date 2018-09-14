@@ -81,6 +81,7 @@ public class Main {
     public static void andenGradsLigning(){
         double a, b, c, diskriminant, x1, x2;
 // test
+        // test 2
         Scanner s = new Scanner(System.in);
         System.out.print("Enter A B C med mellemrum: ");
         a = s.nextDouble();
