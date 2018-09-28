@@ -11,7 +11,7 @@ public class Main {
         andenGradsLigning();
 
     }
-    //  bla bla
+    //  bla bla;
 
     public static void calculateDistanceBetweenPointAndLine(){
         Scanner s = new Scanner(System.in);
