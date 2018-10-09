@@ -4,7 +4,7 @@
 //  Represents a street address.
 //********************************************************************
 
-package com.company;
+package exercising;
 
 public class Address
 {

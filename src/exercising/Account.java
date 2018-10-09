@@ -5,7 +5,7 @@
 //  and withdraw.
 //********************************************************************
 
-package com.company;
+package exercising;
 
 import java.text.NumberFormat;
 
@@ -94,6 +94,8 @@ public class Account
 
       return balance;
    }
+
+
 
    //-----------------------------------------------------------------
    //  Adds interest to the account and returns the new balance.

@@ -1,4 +1,4 @@
-package com.company;
+package exercising;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
