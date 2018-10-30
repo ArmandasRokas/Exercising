@@ -15,7 +15,6 @@ public class ArrayUtil {
         for(int i: a){
 
             s = s + i + " ";
-
         }
 
         return s;
