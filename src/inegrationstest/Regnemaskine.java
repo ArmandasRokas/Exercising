@@ -11,7 +11,7 @@ public class Regnemaskine {
 
     public int add(int a, int b){
 
-        return  sum.laegSammen(a,b) + 1;  // integration test failed
+        return  sum.laegSammen(a,b) + 1;  // integration test failed tteeessting
         // unit test i Sum vil passe
         //
 
