@@ -20,7 +20,7 @@ public class Regnemaskine {
 
     public boolean bla(int a,int b){
 
-        if(this.add(a,c) == 3) {
+        if(this.add(a,b) == 3) {
             return true;
         }
         return false;
