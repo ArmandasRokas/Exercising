@@ -15,6 +15,7 @@ public class Regnemaskine {
         // unit test i Sum vil passe
         //
 
+        /// hej hej
 
     }
 
