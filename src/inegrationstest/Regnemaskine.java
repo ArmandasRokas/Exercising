@@ -11,11 +11,13 @@ public class Regnemaskine {
 
     public int add(int a, int b){
 
-        return  sum.laegSammen(a,c,c,b,a) + 1;  // integration test failed tteeessting
+//        return  sum.laegSammen(a,c,c,b,a) + 1;  // integration test failed tteeessting
         // unit test i Sum vil passe
         //
 
         /// hej hej
+
+        return 1;
 
     }
 
